@@ -1,62 +1,24 @@
-# Hi, I'm Mansi 👋
+# 💫 About Me:
+<br> 👋 About Me<br> 🚀 AI Engineer in the Making  <br>Currently working on cutting-edge projects in Generative AI, LLMs, Computer Vision, and Multimodal Deep Learning.<br><br>🏥 Passionate about Healthcare Innovation  <br>Building intelligent medical assistant systems that use speech, imaging, and report analysis to transform diagnostics.<br><br> 🔬 Research Enthusiast  <br>Exploring Large Language Models (LLMs) and Multi-Agent AI Systems for real-world applications at Samsung Research Institute.<br><br>📚 Always Learning, Always Growing  <br>Diving deeper into Graph Neural Networks (GNNs), Retrieval-Augmented Generation (RAG), and scalable AI deployment practices.<br><br>☕ Fun Fact  <br>I developed a YOLO-based imaging pipeline that boosted medical diagnostic accuracy by **over 50%** — all while brewing a perfect cup of coffee!<br><br>
 
-**AI Engineer building production agentic systems and LLM backends.**<br>
-I design agent orchestration, research pipelines and real-time backends that turn weeks of work into hours.
 
-- 🔭 **Now:** Senior AI Executive at **Gradeless AI** (Jaipuria AI Labs). I own the backend for **Rehearsal**, an AI interview-prep platform, end to end: FastAPI · Supabase · Redis · Portkey
-- ☁️ **Before:** AI Engineer at **Cloud202 Ltd**, where I led 2 enterprise AI platforms on AWS Bedrock used by 50+ consulting clients
-- 🧪 Generative AI Intern at **Samsung Research Institute**, Bangalore (LLM monitoring, agentic architecture)
-- 🎓 B.Tech, **Thapar Institute of Engineering and Technology** (2022–2026)
-- 💼 Open to AI engineering roles and freelance work: agents, RAG, LLM backends
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mansi Gambhir) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mansi gambhir) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansigambhir019@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=plastic&logo=openapiinitiative&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mansigambhir-13&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mansigambhir-13&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansigambhir-13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 What I've shipped
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mansigambhir-13&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-**Qubitz AI**: enterprise business transformation platform *(production, Cloud202)*
-- Multi-agent platform on **Bedrock AgentCore** that researches a business and produces 10 use cases with ROI projections. Consulting delivery went from **3 weeks to 2 hours**.
-- Research pipeline built on Claude Sonnet 4.5, GPT Researcher and Tavily. Processes **500+ sources** per engagement.
-- WebSocket + REST streaming with DynamoDB memory. Handles **100+ concurrent sessions** at **sub-50 ms** latency.
-
-**[WAFR](https://github.com/mansigambhir-13/-AI-Automated-Amazon-WAFR-Workshop-)**: automated AWS Well-Architected reviews *(production)*
-- **8 specialised agents** with confidence scoring and High-Risk Item filtering. Assessments went from **2 weeks to 4 hours**.
-- Serverless stack (Lambda, API Gateway, DynamoDB, S3) with SSE streaming at **sub-100 ms** latency and IAM-scoped access.
-- Well-Architected Tool API integration that auto-creates workloads and PDF reports. Saves **15+ hours** of manual effort per review.
-
-**Samsung Research**: agent observability
-- LLM monitoring dashboard for multi-agent deployments.
-- Plug-and-play agent architecture that made **debugging 60% faster**, plus an A/B testing framework that improved orchestration performance by **30%**.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mansigambhir-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mansigambhir-13&icon=10&color=13)](https://visitcount.itsvg.in)
 
-### 🛠️ Stack
-
-**Agents & LLMs** &nbsp; LangGraph · LangChain · Bedrock AgentCore · RAG · Vector DBs · LoRA/QLoRA fine-tuning · Hugging Face<br>
-**Backend** &nbsp; Python · FastAPI · Supabase · Portkey · WebSockets · SSE · PostgreSQL · Redis · MongoDB · Elasticsearch<br>
-**Cloud & Ops** &nbsp; AWS (Bedrock, Lambda, API Gateway, S3, DynamoDB, ECS, SQS, CloudWatch) · Docker · Kubernetes · CI/CD<br>
-**ML** &nbsp; PyTorch · TensorFlow · scikit-learn · Computer Vision · NLP
-
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,aws,docker,kubernetes,postgres,supabase,redis,mongodb,pytorch,tensorflow,linux,git)](https://skillicons.dev)
-
----
-
-### 🏆 Highlights
-
-- ⭐ **Star Performer Intern**: led 2 deployments supporting a $500K+ consulting pipeline
-- 🥉 **Finalist, Qualcomm Edge AI Hackathon**: top 3 of 100+ teams (AI agents for solar panel optimisation)
-- 🎓 **TIET Merit Scholarship**: ₹2.5L, top 10% of cohort
-- 📄 *Breast cancer detection using thermal imaging with XAI* (submitted)
-
----
-
-### 📫 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-gambhir-134a91245/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansigambhir32@gmail.com)
-
-<details>
-<summary>📊 GitHub stats</summary>
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansigambhir-13&layout=compact&hide_border=true&count_private=true)
-
-</details>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
